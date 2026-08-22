@@ -1,0 +1,8 @@
+{
+  "name": "Song Thủy - Dệt & Gia Công Dây Đai, Dây Luồn, Dây Thun, Dây Rope",
+  "description": "CÔNG TY TNHH SXTM SONG THỦY - Chuyên sản xuất & gia công các loại chỉ may, dây dù, quai dép, dây túi xách, dây thun, dây band, dây draw cord, dây luồn dẹp, webbing tape, macrame, elastic, dây đu lau kính...",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
